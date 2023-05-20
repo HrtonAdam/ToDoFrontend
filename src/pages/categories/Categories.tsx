@@ -116,7 +116,7 @@ const Categories = () => {
             <div className="header justify-content-start mb-4">
                 <h2>Categories</h2>
                 <Button variant="success" className="new-category-btn ms-4" onClick={toggleNewCategoryVisibility}>
-                    <AiOutlinePlus /> Create a new category
+                    <AiOutlinePlus /> Create a new category Adam
                 </Button>
                 <Button variant="info" className="logout-btn" onClick={logOff}>
                     Logout <AiOutlineLogout />
